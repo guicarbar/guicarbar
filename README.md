@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-    <img src="Imagens/evercoding.gif"><br>
+    <img src="Imagens/evercoding.gif">
 </div>
 
 ## Habilidades :computer:
@@ -81,3 +81,8 @@
 ## Contact :memo:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-analista/)
+
+
+<div align="center">
+    <img src="Imagens/a-ia-da-paisagem-montanhosa-noturna-gerou-uma-cena-de-jogo-de-pixel-de-8-bits-com-ceu-escuro-e-lua-cheia-sobre-o-vale-da-montanha-fundo-vetorial-do-nivel-de-jogo-re.avif">
+</div>
