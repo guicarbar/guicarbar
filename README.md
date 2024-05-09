@@ -82,10 +82,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicarbar&layout=compact&theme=dracula)
 
-
-![snake gif](https://github.com/guicarbar/guicarbar/blob/output/github-contribution-grid-snake.gif)
-
-
 ## Contact :memo:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-analista/)
