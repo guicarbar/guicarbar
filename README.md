@@ -75,7 +75,4 @@
 
 ## Analytics :paperclip:
 
-<div align="center>
-    <img src="https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=dracula">
-
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=radical)
