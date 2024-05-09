@@ -76,6 +76,6 @@
 ## Analytics :paperclip:
 
 <div align="center>
-    ![guicarbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=dracula&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"><br><br>
+
 </div>
