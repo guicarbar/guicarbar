@@ -83,7 +83,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicarbar&layout=compact&theme=dracula)
 
 
-![Snake animatio](https://github.com/guicarbar/blob/output/github-contribution-grid-snake.svg)
+![Snake animatio](https://github.com/guicarbar/guicarbar/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Contact :memo:
