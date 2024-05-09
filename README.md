@@ -73,16 +73,19 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<div align="center">
+    <img src="Imagens/a-ia-da-paisagem-montanhosa-noturna-gerou-uma-cena-de-jogo-de-pixel-de-8-bits-com-ceu-escuro-e-lua-cheia-sobre-o-vale-da-montanha-fundo-vetorial-do-nivel-de-jogo-re.avif">
+</div>
+
 ## Analytics :paperclip:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicarbar&layout=compact&theme=dracula)
 
+
+![Snake animatio](https://github.com/guicarbar)
+
+
 ## Contact :memo:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-analista/)
-
-
-<div align="center">
-    <img src="Imagens/a-ia-da-paisagem-montanhosa-noturna-gerou-uma-cena-de-jogo-de-pixel-de-8-bits-com-ceu-escuro-e-lua-cheia-sobre-o-vale-da-montanha-fundo-vetorial-do-nivel-de-jogo-re.avif">
-</div>
