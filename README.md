@@ -77,6 +77,8 @@
     <img src="Imagens/a-ia-da-paisagem-montanhosa-noturna-gerou-uma-cena-de-jogo-de-pixel-de-8-bits-com-ceu-escuro-e-lua-cheia-sobre-o-vale-da-montanha-fundo-vetorial-do-nivel-de-jogo-re.avif">
 </div>
 
+
+
 ## Analytics :paperclip:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=dracula)
