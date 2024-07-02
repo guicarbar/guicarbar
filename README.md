@@ -3,7 +3,7 @@
 
 ### Cyber seugurança - FIAP (Cursando) :fire:
 
-* Sou analista de dados.
+* Sou desenvolvedor Full-Stack.
 * Moro em Osasco, São Paulo - Brasil
 * Tenho 23 anos.
 
