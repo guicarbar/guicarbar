@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-    <img src="Imagens/evercoding.gif">
+    <img src="img/evercoding.gif">
 </div>
 
 ## Habilidades :computer:
@@ -74,7 +74,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <div align="center">
-    <img src="Imagens/a-ia-da-paisagem-montanhosa-noturna-gerou-uma-cena-de-jogo-de-pixel-de-8-bits-com-ceu-escuro-e-lua-cheia-sobre-o-vale-da-montanha-fundo-vetorial-do-nivel-de-jogo-re.avif">
+    <img src="img/a-ia-da-paisagem-montanhosa-noturna-gerou-uma-cena-de-jogo-de-pixel-de-8-bits-com-ceu-escuro-e-lua-cheia-sobre-o-vale-da-montanha-fundo-vetorial-do-nivel-de-jogo-re.avif">
 </div>
 
 
