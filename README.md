@@ -1,6 +1,6 @@
 
 
-# Olá mundo! Sou Guilherme Carvalho!<img style="width: 60%; margin: 0px 16px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+# Olá mundo! Sou Guilherme Carvalho!<img style="width: 60%; margin: 0px 16px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
 ### ADS (Analise e desenvolvimento) - FIAP (Cursando) :fire:
 
