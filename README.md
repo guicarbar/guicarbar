@@ -1,8 +1,6 @@
 
-## <div style="display: flex; align-items: center;">
-    <p>Olá mundo! Sou Guilherme Carvalho!</p>
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
-</div>
+## <div style="display: flex; align-items: center;"> <p>Olá mundo! Sou Guilherme Carvalho!</p> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> </div>
+
 
 ### ADS (Analise e desenvolvimento) - FIAP (Cursando) :fire:
 
