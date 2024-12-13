@@ -1,18 +1,17 @@
+🟢🟡🔴
 
+<!-- titulo -->
+# Olá mundo, sou Guilherme Carvalho! <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
-# Olá mundo! Sou Guilherme Carvalho!<img style="width: 60%; margin: 0px 16px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
-
-### ADS (Analise e desenvolvimento) - FIAP (Cursando) :fire:
-
-* Sou desenvolvedor Full-Stack.
-* Moro em Osasco, São Paulo - Brasil
-* Tenho 23 anos.
-
-##
-
+<!-- banner -->
 <div align="center">
     <img src="img/evercoding.gif">
 </div>
+
+<!-- Sobre mim -->
+## About me
+
+
 
 ---
 
