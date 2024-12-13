@@ -1,5 +1,5 @@
 
-## Olá mundo! Sou Guilherme Carvalho ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## <div style="display: flex; align-items: center;"> Olá mundo! Sou Guilherme Carvalho ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </div>
 
 ### ADS (Analise e desenvolvimento) - FIAP (Cursando) :fire:
 
@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-    <img src="img/a-ia-da-paisagem-montanhosa-noturna-gerou-uma-cena-de-jogo-de-pixel-de-8-bits-com-ceu-escuro-e-lua-cheia-sobre-o-vale-da-montanha-fundo-vetorial-do-nivel-de-jogo-re.avif">
+    <img src="img/Bannner.avif">
 </div>
 
 
