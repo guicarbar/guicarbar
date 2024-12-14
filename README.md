@@ -11,16 +11,18 @@
 <!-- Sobre mim -->
 ## About me <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador com cafezinho" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.imgur.com/MAMdnKs.gif"  min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
     Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP, entusiasta de tecnologia e focado em aprimorar minhas habilidades como desenvolvedor.
 </p>
 
+<p align="left"> 
+    
+</p>
+
 *Não deixe de conferir também o meu* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Repositorio do Portfólio" target="_blank">Portfólio</a>
 
-
-## <h1 width="100%"> Analytics </h1> :paperclip:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicarbar&layout=compact&theme=dracula)
