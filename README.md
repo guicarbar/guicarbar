@@ -11,19 +11,22 @@
 <!-- Sobre mim -->
 ## About me <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
-<div>
-    <img src="https://i.imgur.com/MAMdnKs.gif"  min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.imgur.com/MAMdnKs.gif"  min-width="400px" max-width="400px" width="400px" align="right">
 
-    <p align="left"> 
-        Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP, entusiasta de tecnologia e focado em aprimorar minhas habilidades como desenvolvedor.
-    </p>
+<p align="left"> 
+    Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP, entusiasta de tecnologia e focado em aprimorar minhas habilidades como desenvolvedor.
+</p>
 
-    <p align="left"> 
-        
-    </p>
+<p align="left"> 
+    
+</p>
 
-    *Não deixe de conferir também o meu* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Repositorio do Portfólio" target="_blank">Portfólio</a>
-</div>
+*Não deixe de conferir também o meu* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Repositorio do Portfólio" target="_blank">Portfólio</a>
+
+</br>
+</br>
+</br>
+</br>
 
 ## teste
 
