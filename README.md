@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
+
 🟢🟡🔴
 
 <!-- titulo -->
@@ -5,12 +7,13 @@
 
 <!-- banner -->
 <div align="center">
-    <img src="img/evercoding.gif">
+    <img src="img/Bannner.avif">
 </div>
 
 <!-- Sobre mim -->
 ## About me
 
+* <strong>*Systems Analyst / System developer*</strong>
 
 
 ---
@@ -23,7 +26,9 @@
     <img src="img/Bannner.avif">
 </div>
 
-
+<div align="center">
+    <img src="img/evercoding.gif">
+</div>
 
 ## Analytics :paperclip:
 
