@@ -9,7 +9,7 @@
 </div>
 
 <!-- Sobre mim -->
-## About me
+## About me <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -19,13 +19,6 @@
 
 *Não deixe de conferir também o meu* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Repositorio do Portfólio" target="_blank">Portfólio</a>
 
-
-
----
-
-<img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
-
----
 
 
 <div align="center">
