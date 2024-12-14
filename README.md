@@ -30,7 +30,7 @@
 </br>
 </br>
 
-## Skills
+## Skills 💡🛠️
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,13 +45,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## Analitics 
+## Analytics 🔍📈
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&count_private=true&hide_border=true&title_color=1F736A&icon_color=F2A341&text_color=c9d1d9&bg_color=0d1117"/> 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarbar&layout=compact&hide_border=true&title_color=1F736A&text_color=F2A341&bg_color=0d1117" />
 </div>
 
-## Contact :memo:
+## Contact 📩📞
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-desenvolvedor-fullstack)
