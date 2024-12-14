@@ -11,10 +11,14 @@
 <!-- Sobre mim -->
 ## About me <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
-<img src="https://i.imgur.com/MAMdnKs.gif"  min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.imgur.com/MAMdnKs.gif"  width="50%" width="400px" align="right">
 
 <p align="left"> 
-    Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP, entusiasta de tecnologia e focado em aprimorar minhas habilidades como desenvolvedor.
+    Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP, entusiasta de tecnologia, focado em aprimorar minhas habilidades como desenvolvedor e com a pretensão de me especializar na área de IA nos próximos anos.
+</p>
+
+<p align="left"> 
+    "Mas, se você quer saber mais sobre mim, aqui vai um resumo em três palavras do que eu gosto: 'debugar', 'compilar' e 'deployar'."
 </p>
 
 <p align="left"> 
