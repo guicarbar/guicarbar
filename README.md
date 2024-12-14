@@ -47,14 +47,9 @@
 
 ## Analitics 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicarbar&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarbar&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicarbar&layout=compact&theme=transparent)
 
 ## Contact :memo:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-desenvolvedor-fullstack)
-
-
-<div align="center">
-    <img src="img/evercoding.gif">
-</div>
