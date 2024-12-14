@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
 
 <!-- titulo -->
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=32&letterSpacing=.2em&pause=1000&color=1F736A&width=800&lines=Hi!+My+name+is+Guilherme+Carvalho.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <!-- banner -->
 <div align="center">
-    <img src="img/Bannner.avif" min-width="600px" max-width="600px">
+    <img src="img/Bannner.avif" width="50%">
 </div>
 
 <!-- Sobre mim -->
