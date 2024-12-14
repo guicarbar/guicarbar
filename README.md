@@ -11,7 +11,7 @@
 <!-- Sobre mim -->
 ## About me <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador com cafezinho" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
     Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP, entusiasta de tecnologia e focado em aprimorar minhas habilidades como desenvolvedor.
@@ -19,11 +19,6 @@
 
 *Não deixe de conferir também o meu* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Repositorio do Portfólio" target="_blank">Portfólio</a>
 
-
-
-<div align="center">
-    <img src="img/evercoding.gif">
-</div>
 
 ## Analytics :paperclip:
 
@@ -33,3 +28,8 @@
 ## Contact :memo:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-analista/)
+
+
+<div align="center">
+    <img src="img/evercoding.gif">
+</div>
