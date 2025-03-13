@@ -24,7 +24,7 @@
 </br>
 
 <!-- sobre mim -  ingles -->
-<h2 align="rigth"><img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> About me (US) </h2>
+## About me (US) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="rigth">
 
 
 <img src="img/Bannner.avif" width="50%" width="400px" align="left">
