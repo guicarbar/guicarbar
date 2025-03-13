@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/MAMdnKs.gif"  width="50%" width="400px" align="right">
 
 
-## Sobre mim (BR) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+### Sobre mim (BR) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
 <p align="left"> 
     Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP, entusiasta de tecnologia, focado em aprimorar minhas habilidades como desenvolvedor e com a pretensão de me especializar na área de IA nos próximos anos.
@@ -30,7 +30,7 @@
 <img src="img/Bannner.avif" width="50%" width="400px" align="left">
 
 
-## About me (US) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="rigth">
+### About me (US) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="rigth">
 
 <p align="rigth">
     I am a Systems Analysis and Development student at FIAP, a technology enthusiast focused on improving my skills as a developer, with the intention of specializing in the field of AI in the coming years.
