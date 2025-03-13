@@ -22,7 +22,6 @@
 
 </br>
 </br>
-</br>
 
 <!-- sobre mim -  ingles -->
 ## About me (US) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="rigth">
@@ -40,6 +39,7 @@
 
 *Don't forget to also check out my* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Portfolio Repository" target="_blank">Portfolio</a>
 
+</br>
 </br>
 </br>
 
