@@ -5,7 +5,7 @@
 
 
 <!-- Sobre mim - portugues -->
-## Sobre mim - PT - BR <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+## Sobre mim (BR) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
 <img src="https://i.imgur.com/MAMdnKs.gif"  width="50%" width="400px" align="right">
 
@@ -24,7 +24,7 @@
 </br>
 
 <!-- sobre mim -  ingles -->
-## About me <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+<h2 align="rigth"><img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> About me (US) </h2>
 
 
 <img src="img/Bannner.avif" width="50%" width="400px" align="left">
