@@ -44,21 +44,20 @@
 </br>
 </br>
 
-## Skills 💡🛠️
 
-<div style="width: 50%;">
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
 
 ### 🖥️ Programming Languages
 
-* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
-
-
-<div>
+</td>
+<td valign="top" width="50%">
 
 ### 🎨 Front-end Technologies & Frameworks
 
@@ -68,25 +67,26 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-
-<div style="width: 30%;">
-
-### 🛠️ Back-end Technologies & Frameworks
+## 🛠️ Back-end Technologies & Frameworks
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-</div>
-
-
-<div style="width: 30%;">
+</td>
+<td valign="top" width="50%">
 
 ### 🔄 Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+</td>
+</tr>
+
+</table>
 
 
 
