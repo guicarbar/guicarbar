@@ -3,13 +3,9 @@
 <!-- titulo -->
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=32&letterSpacing=.2em&pause=1000&color=1F736A&width=800&lines=Hi!+My+name+is+Guilherme+Carvalho.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<!-- banner -->
-<div align="center">
-    <img src="img/Bannner.avif" width="50%">
-</div>
 
-<!-- Sobre mim -->
-## About me <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+<!-- Sobre mim - portugues -->
+## Sobre mim - PT - BR <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
 <img src="https://i.imgur.com/MAMdnKs.gif"  width="50%" width="400px" align="right">
 
@@ -21,11 +17,29 @@
     "Mas, se você quer saber mais sobre mim, aqui vai um resumo em três palavras: 'debugar', 'compilar' e 'deployar'."
 </p>
 
-<p align="left"> 
-    
-</p>
 
 *Não deixe de conferir também o meu* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Repositorio do Portfólio" target="_blank">Portfólio</a>
+
+</br>
+</br>
+
+<!-- sobre mim -  ingles -->
+## About me <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+
+
+<img src="img/Bannner.avif" width="50%" width="400px" align="left">
+
+<p align="rigth">
+    I am a Systems Analysis and Development student at FIAP, a technology enthusiast focused on improving my skills as a developer, with the intention of specializing in the field of AI in the coming years.
+</p>
+
+<p align="rigth">
+    "But, if you want to know more about me, here’s a summary in three words: 'debug', 'compile', and 'deploy'."
+</p>
+
+*Don't forget to also check out my* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Portfolio Repository" target="_blank">Portfolio</a>
+
+
 
 </br>
 </br>
