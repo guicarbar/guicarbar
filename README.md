@@ -29,7 +29,7 @@
 <img src="img/Bannner.avif" width="50%" width="400px" align="left">
 
 
-### About me (US) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="rigth">
+### About me (US) :+1:
 
 <p align="rigth">
     I am a Systems Analysis and Development student at FIAP, a technology enthusiast focused on improving my skills as a developer, with the intention of specializing in the field of AI in the coming years.
