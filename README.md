@@ -41,10 +41,9 @@
 
 </br>
 </br>
-</br>
-</br>
 
----
+
+## Skills 🛠️💻
 
 <table width="960px">
 <tr>
