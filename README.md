@@ -23,7 +23,6 @@
 *Não deixe de conferir também o meu* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Repositorio do Portfólio" target="_blank">Portfólio</a>
 
 </br>
-</br>
 
 <!-- sobre mim -  ingles -->
 
@@ -42,8 +41,6 @@
 
 *Don't forget to also check out my* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Portfolio Repository" target="_blank">Portfolio</a>
 
-</br>
-</br>
 </br>
 
 
