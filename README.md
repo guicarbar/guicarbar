@@ -45,6 +45,8 @@
 
 ## Skills 🛠️💻
 
+</br>
+
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
@@ -88,6 +90,8 @@
 
 </table>
 
+</br>
+</br>
 
 
 ## Analytics 🔍📈
