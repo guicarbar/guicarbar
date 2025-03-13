@@ -64,7 +64,7 @@
 </td>
 <td valign="top" width="50%">
 
-## 🎨 Front-end Technologies & Frameworks
+## 🎨 Front-end Technologies
 
 </br>
 
