@@ -39,11 +39,12 @@
 
 *Don't forget to also check out my* <a href="https://github.com/guicarbar/Portfolio_Guilherme" title="Portfolio Repository" target="_blank">Portfolio</a>
 
-
-
+</br>
+</br>
 </br>
 </br>
 
+---
 
 <table width="960px">
 <tr>
