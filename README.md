@@ -22,6 +22,7 @@
 
 </br>
 </br>
+</br>
 
 <!-- sobre mim -  ingles -->
 ## About me (US) <img style="width: 60%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="rigth">
@@ -60,8 +61,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-</br>
-
 </td>
 <td valign="top" width="50%">
 
@@ -75,8 +74,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</br>
-
 </td>
 </tr>
 <tr>
@@ -88,8 +85,6 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-</br>
-
 </td>
 <td valign="top" width="50%">
 
@@ -98,8 +93,6 @@
 </br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</br>
 
 </td>
 </tr>
