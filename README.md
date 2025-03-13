@@ -3,6 +3,8 @@
 <!-- titulo -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=32&letterSpacing=.2em&pause=1000&color=1F736A&width=800&lines=Hi!+My+name+is+Guilherme+Carvalho.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+---
+
 
 <!-- Sobre mim - portugues -->
 
@@ -79,7 +81,7 @@
 <tr>
 <td valign="top" width="50%">
 
-## 🛠️ Back-end Technologies & Frameworks
+## 🛠️ Back-end Technologies
 
 </br>
 
