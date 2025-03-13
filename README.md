@@ -46,7 +46,7 @@
 
 ## Skills 💡🛠️
 
-<div style="width: 50%;">
+<div style="width: 30%;">
 
 ### 🖥️ Programming Languages
 
@@ -58,7 +58,7 @@
 </div>
 
 
-<div style="width: 50%;">
+<div style="width: 30%;">
 
 ### 🎨 Front-end Technologies & Frameworks
 
@@ -71,7 +71,7 @@
 </div>
 
 
-<div style="width: 50%;">
+<div style="width: 30%;">
 
 ### 🛠️ Back-end Technologies & Frameworks
 
@@ -80,7 +80,7 @@
 </div>
 
 
-<div style="width: 50%;">
+<div style="width: 30%;">
 
 ### 🔄 Version Control
 
